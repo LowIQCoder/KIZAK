@@ -92,7 +92,7 @@ Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Pr
   * Main page with roadmap (by Timur)
   * Options (by Timur)
 
-### **Frontend**
+### ♿ **Frontend**
 
 * Created Initial page (by Sarmat)
 * Created Login and Singup pages (by Sarmat)
