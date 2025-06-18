@@ -138,6 +138,7 @@ Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Pr
  
 * **Ulyana Chaikovskaya:** u.chaikouskaya@innopolis.university
   * Dataset analisys (see corresponding frame in [miro](https://miro.com/app/board/uXjVIrMw-Nw=/?share_link_id=30918973188) or [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/13))
+  * New dataset design (see [ipynb file](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/feature-job_skill_mapping/ml/jv_mapping.ipynb))
 
 * **Kseniia Khudiakova:** k.khudiakova@innopolis.university
   * Dataset analisys (see corresponding frame in [miro](https://miro.com/app/board/uXjVIrMw-Nw=/?share_link_id=30918973188) or [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/13))
