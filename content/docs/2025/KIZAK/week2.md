@@ -14,7 +14,8 @@ title: "Week #2"
   ✅ Mentor profiles with:  
      - Areas of expertise (e.g., Python, Web Dev, Data Science)  
      - Availability (timezone-friendly schedule)  
-     - Ratings/reviews from past mentees  
+     - Ratings/reviews from past mentees
+       
   ✅ Matching system based on:  
      - My current skill level (beginner/intermediate)  
      - My learning goals (e.g., "get a good offer")   
@@ -27,8 +28,10 @@ title: "Week #2"
   **As a tech intern**, I want to **create an resume** with industry-specific templates so that **I can pass automated screenings and impress hiring managers**.  
   
   **Acceptance Criteria**:  
-  ✅ Pre-filled templates for tech roles (Backend Developer, Data Analyst, etc.)  
+  ✅ Pre-filled templates for tech roles (Backend Developer, Data Analyst, etc.)
+  
   ✅ Real-time feedback
+  
   ✅ One-click export to PDF/LinkedIn  
   
   **Edge Cases**:  
@@ -41,7 +44,8 @@ title: "Week #2"
   
   **Acceptance Criteria**:  
   ✅ Roadmap adjusts based on:  
-     - My 20-hour/week availability   
+     - My 20-hour/week availability
+         
   ✅ Includes:  
      - Free/low-cost resource links (Coursera, Stepik)   
      - Personal tasks  
@@ -56,7 +60,8 @@ title: "Week #2"
   **Acceptance Criteria**:  
   ✅ Skill assessment quiz outputting:  
      - Priority areas (e.g., "Learn Redux for state management")  
-     - Weak spots (e.g., "API design best practices")  
+     - Weak spots (e.g., "API design best practices")
+       
   ✅ Progress tracker showing:  
      - Competency growth (e.g., "Frontend: 60% → 85%")  
      - Peer benchmarks  
@@ -70,7 +75,8 @@ title: "Week #2"
   **Acceptance Criteria**:  
   ✅ Social login options:  
      - Google  
-     - GitHub  
+     - GitHub
+       
   ✅ Clear error messages for:  
      - "Email already in use"  
      - "Account locked (too many attempts)"  
