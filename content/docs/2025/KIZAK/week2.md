@@ -72,7 +72,7 @@ Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Pr
 
 * Timur Farizunov: t.farizunov@innopolis.university
   * Onboarding and main page design (see corresponding frames in [figma](https://www.figma.com/design/Ew8Vmgzn739HYN2aAaVb1s/Untitled?node-id=0-1&t=eC6UcHbY32eWsSUx-1))
-  * Onboarding page frontend (see issue) ADD COMMITS
+  * Main page design and frontend structure setup (see [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/1cf59a878d99964351fa6d0eefe34f39f559f5c7))
 
 * Sarmat Lutfullin: s.lutfullin@innopolis.university
   * Initial page design (see corresponding frames in [figma](https://www.figma.com/design/Ew8Vmgzn739HYN2aAaVb1s/Untitled?node-id=0-1&t=eC6UcHbY32eWsSUx-1))
