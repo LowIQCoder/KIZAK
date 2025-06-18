@@ -113,7 +113,7 @@ Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Pr
   * User CRUD operations (by Maksim)
   * Roadmap CRUD operations (with nodes and links) (by Marsel)
   * Resource CRUD operations (by Marsel)
-* Created simple [docs](https://github.com/IU-Capstone-Project-2025/KIZAK/tree/Feature-integrate-db-to-user/docs) for API
+* Created simple [docs](https://github.com/IU-Capstone-Project-2025/KIZAK/tree/main/docs) for API
 
 ### 🤖 **ML**
 
