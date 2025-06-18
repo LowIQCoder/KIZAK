@@ -68,7 +68,7 @@ Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Pr
   * User API design (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/18)) ADD COMMITS
 
 * Makar Egorov: m.egorov@innopolis.university
-  * Course dataset design (see issue) ADD COMMITS
+  * Course scraping (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/15))
 
 * Timur Farizunov: t.farizunov@innopolis.university
   * Onboarding and main page design (see corresponding frames in [figma](https://www.figma.com/design/Ew8Vmgzn739HYN2aAaVb1s/Untitled?node-id=0-1&t=eC6UcHbY32eWsSUx-1))
