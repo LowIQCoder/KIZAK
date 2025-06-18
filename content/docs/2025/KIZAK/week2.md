@@ -129,7 +129,7 @@ Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Pr
 
 * **Maksim Malov:** m.malov@innopolis.university
   * CI/CD pipeline initial design (see [last commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/b93edec84420d2d8c040653d511f5ae2e2f62dbd))
-  * User API design (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/18))
+  * User API design (see [pull request](https://github.com/IU-Capstone-Project-2025/KIZAK/pull/28))
 
 * **Makar Egorov:** m.egorov@innopolis.university
   * Course scraping (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/15))
