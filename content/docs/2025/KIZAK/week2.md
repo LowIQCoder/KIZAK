@@ -102,7 +102,7 @@ Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Pr
 ### ⚙️ **Backend**
 
 * Created initial CI/CD pipeline (by Maksim)
-* Created database prototype (by Marsel)
+* Created database [prototype](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/main/db/init.sql) (by Marsel)
 * Created base endpoints for
   * User CRUD operations (by Maksim)
   * Roadmap CRUD operations (with nodes and links) (by Marsel)
