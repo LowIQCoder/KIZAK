@@ -101,6 +101,7 @@ Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Pr
 
 ### ⚙️ **Backend**
 
+* Created initial CI/CD pipeline (by Maksim)
 * Created database prototype (by Marsel)
 * Created base endpoints for
   * User CRUD operations (by Maksim)
