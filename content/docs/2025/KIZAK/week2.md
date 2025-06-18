@@ -7,91 +7,155 @@ title: "Week #2"
 ## ⚙️ **Detailed Requirements Elaboration**
 
 ### 👤 **Detailed User Stories**
+* **Student Seeking Mentorship**  
+  **As a computer science student**, I want to **find an experienced mentor** in my field so that **I can get a personalized learning plan** to study efficiently without feeling overwhelmed.  
+  
+  **Acceptance Criteria**:  
+  ✅ Mentor profiles with:  
+     - Areas of expertise (e.g., Python, Web Dev, Data Science)  
+     - Availability (timezone-friendly schedule)  
+     - Ratings/reviews from past mentees  
+  ✅ Matching system based on:  
+     - My current skill level (beginner/intermediate)  
+     - My learning goals (e.g., "get a good offer")   
+  
+  **Edge Cases**:  
+  ⚠️ No mentors available in my area (e.g., Rust programming)  
+  ⚠️ Mentor has poor communication 
 
-* 1. **User Authentication**  
+* **Intern Resume Builder**  
+  **As a tech intern**, I want to **create an resume** with industry-specific templates so that **I can pass automated screenings and impress hiring managers**.  
+  
+  **Acceptance Criteria**:  
+  ✅ Pre-filled templates for tech roles (Backend Developer, Data Analyst, etc.)  
+  ✅ Real-time feedback
+  ✅ One-click export to PDF/LinkedIn  
+  
+  **Edge Cases**:  
+  ⚠️ I have no prior work experience  
+  ⚠️ My projects are school assignments (how to present them)  
+  ⚠️ Non-traditional background (e.g., self-taught)  
+
+* **Career Switcher Roadmap**  
+  **As a marketing professional switching to data science**, I want a **customized 6-month roadmap** so that **I can focus only on relevant skills (SQL, Python, stats) without wasting time**.  
+  
+  **Acceptance Criteria**:  
+  ✅ Roadmap adjusts based on:  
+     - My 20-hour/week availability   
+  ✅ Includes:  
+     - Free/low-cost resource links (Coursera, Stepik)   
+     - Personal tasks  
+  
+  **Edge Cases**:  
+  ⚠️ I get stuck on a topic (e.g., linear algebra)  
+  ⚠️ Job market shifts (e.g., sudden demand for PySpark)  
+
+* **Junior Developer Upskilling**  
+  **As a junior React dev**, I want to **identify and fill skill gaps** through curated challenges so that **I can qualify for mid-level roles within 12 months**.  
+  
+  **Acceptance Criteria**:  
+  ✅ Skill assessment quiz outputting:  
+     - Priority areas (e.g., "Learn Redux for state management")  
+     - Weak spots (e.g., "API design best practices")  
+  ✅ Progress tracker showing:  
+     - Competency growth (e.g., "Frontend: 60% → 85%")  
+     - Peer benchmarks  
+  
+  **Edge Cases**:  
+  ⚠️ Conflicting advice from different seniors  
+
+* **User Authentication**  
   **As a forgetful user**, I want to **sign up/login with Google/GitHub** so that **I don’t get locked out due to password issues**.  
   
   **Acceptance Criteria**:  
   ✅ Social login options:  
      - Google  
      - GitHub  
-     - Apple (for iOS users)  
-  ✅ Fallback email magic links  
   ✅ Clear error messages for:  
      - "Email already in use"  
      - "Account locked (too many attempts)"  
   
   **Edge Cases**:  
   ⚠️ My social account gets hacked  
-  ⚠️ I need to merge multiple accounts  
-  ⚠️ Enterprise SSO required for my team
 
 ### 🐗 **Prioritized backlog**
 
 Our current backlog could be found [here](https://github.com/orgs/IU-Capstone-Project-2025/projects/11) 
 
-## Project specific progress
+## 📈 **Project specific progress**
 
-### Design
+### 🖼️ **Design**
 
 * Created initial [design](https://www.figma.com/design/Ew8Vmgzn739HYN2aAaVb1s/Untitled?node-id=0-1&t=eC6UcHbY32eWsSUx-1) for:
-  * Initial page
-  * Onboarding pages
-  * Main page with roadmap
-  * Options
+  * Initial page (by Sarmat)
+  * Onboarding pages (by Timur)
+  * Main page with roadmap (by Timur)
+  * Options (by Timur)
 
-### Frontend
+### **Frontend**
 
-### Backend
+* Created Initial page (by Sarmat)
+* Created Login and Singup pages (by Sarmat)
+* Created Onboarding page (by Timur)
+* Created Main page (by Timur)
 
-* Created database prototype
+### ⚙️ **Backend**
+
+* Created database prototype (by Marsel)
 * Created base endpoints for
-  * User CRUD operations
-  * Roadmap CRUD operations (with nodes and links)
-  * Resource CRUD operations
-* Created documentation for API
+  * User CRUD operations (by Maksim)
+  * Roadmap CRUD operations (with nodes and links) (by Marsel)
+  * Resource CRUD operations (by Marsel)
+* Created simple [docs](https://github.com/IU-Capstone-Project-2025/KIZAK/tree/Feature-integrate-db-to-user/docs) for API
 
-### ML
+### 🤖 **ML**
 
-* Training dataset selected
+* Training dataset selected (by Ksenia & Ulyana)
 
-# Weekly commitments
+# 📝 **Weekly commitments**
 
-## Individual contribution of each participant
+## 📊 **Individual contribution of each participant**
 
-* Marsel Berheev: m.berheev@innopolis.university
+* **Marsel Berheev:** m.berheev@innopolis.university
   * Weekly report
   * Roadmap API design (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/27))
 
-* Maksim Malov: m.malov@innopolis.university
+* **Maksim Malov:** m.malov@innopolis.university
   * CI/CD pipeline initial design (see [last commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/b93edec84420d2d8c040653d511f5ae2e2f62dbd))
   * User API design (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/18)) ADD COMMITS
 
-* Makar Egorov: m.egorov@innopolis.university
+* **Makar Egorov:** m.egorov@innopolis.university
   * Course scraping (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/15))
 
-* Timur Farizunov: t.farizunov@innopolis.university
+* **Timur Farizunov:** t.farizunov@innopolis.university
   * Onboarding and main page design (see corresponding frames in [figma](https://www.figma.com/design/Ew8Vmgzn739HYN2aAaVb1s/Untitled?node-id=0-1&t=eC6UcHbY32eWsSUx-1))
   * Main page design and frontend structure setup (see [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/1cf59a878d99964351fa6d0eefe34f39f559f5c7))
 
-* Sarmat Lutfullin: s.lutfullin@innopolis.university
+* **Sarmat Lutfullin:** s.lutfullin@innopolis.university
   * Initial page design (see corresponding frames in [figma](https://www.figma.com/design/Ew8Vmgzn739HYN2aAaVb1s/Untitled?node-id=0-1&t=eC6UcHbY32eWsSUx-1))
-  * Initial page frontend
+  * Login and Singup frontend (see [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/5fedd0bdef21244b3a52e645818afd19f076e1e0))
  
-* Ulyana Chaikovskaya: u.chaikouskaya@innopolis.university
+* **Ulyana Chaikovskaya:** u.chaikouskaya@innopolis.university
   * Dataset analisys (see corresponding frame in [miro](https://miro.com/app/board/uXjVIrMw-Nw=/?share_link_id=30918973188) or [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/13))
 
-* Kseniia Khudiakova: k.khudiakova@innopolis.university
+* **Kseniia Khudiakova:** k.khudiakova@innopolis.university
   * Dataset analisys (see corresponding frame in [miro](https://miro.com/app/board/uXjVIrMw-Nw=/?share_link_id=30918973188) or [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/13))
 
-## Plan for Next Week
+## 🎯 **Plan for Next Week**
 
-* Finish front end MVP
+* Finish frontend MVP
+  * Polish existing pages
+  * Complete end to end userflow
+  * Design refinement
 * Integrate API to MVP
+  * Integration with existing endpoints
+  * Adding new endpoints if needed
 * Update documentation
+  * Complete documentation for API
+* First iteration of AI model
 
-## Confirmation of the code's operability
+## **Confirmation of the code's operability**
 
 We confirm that the code in the main branch:
-- [ ] In working condition.
-- [ ] Run via docker-compose (or another alternative described in the `README.md`).
+- [x] In working condition.
+- [x] Run via docker-compose (or another alternative described in the `README.md`).
