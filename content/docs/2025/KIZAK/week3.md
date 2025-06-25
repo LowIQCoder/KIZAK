@@ -12,7 +12,7 @@ title: "Week #3"
 
 ## 📽️ **Demonstration of the working MVP**
 
-*Screenshots/GIFs/PDF presentation/Videos demonstrating the working MVP*
+Demo of our project could be found [here](https://youtu.be/-rpj0gbobS4)
 
 ## 🤖 **ML**
 
@@ -49,7 +49,7 @@ We completed the structure of the automated roadmap generation.
   * Frontend refinement (see [fixes](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/f48a2f802f8a18f1b504e9f3364940e41e844125))
 
 * **Sarmat Lutfullin:** s.lutfullin@innopolis.university
-  * API integration
+  * API integration (see [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/ffaf302b7a3515406dc517cf96f205425b033be3))
  
 * **Ulyana Chaikovskaya:** u.chaikouskaya@innopolis.university
   * Skill Gap Analyzer (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/45))
