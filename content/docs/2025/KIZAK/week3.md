@@ -19,9 +19,7 @@ Demo of our project could be found [here](https://youtu.be/-rpj0gbobS4)
 
 ## 🤖 **ML**
 
-We completed the structure of the automated roadmap generation.
-
-![Roadmap](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/main/assets/ml_str.jpg)
+We completed the structure of the automated roadmap generation. You can check our structure [here](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/main/assets/ml_str.jpg)
 
 * Vaccancy-Skill mapping (see [here](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/feature-job_skill_mapping/ml/jv_mapping.ipynb))
 * Skill Gap Analyzer prototype (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/45))
