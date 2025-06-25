@@ -4,9 +4,11 @@ title: "Week #3"
 
 # **Week #3**
 
-## Implemented MVP features
+## 🚀 **Implemented MVP features**
 
-*Describe all implemented features (with to relevant PRs/Issues for implemented features) in your MVP and functional user journey(s)*
+* User login/singup (see [pull request](https://github.com/IU-Capstone-Project-2025/KIZAK/pull/38))
+* User onboarding (see [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/5eb94228db926daf3178c15691ddb0fe10375b19))
+* Fisrt iteration of roadmap (see [design](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/26) and [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/323020397d71bb41a700c78b674c956299e793fe))
 
 ## Demonstration of the working MVP
 
@@ -14,27 +16,50 @@ title: "Week #3"
 
 ## ML
 
-*Remove this section if not applicable*
+Structure of roadmap creation:
 
-**Link to the training code**: *link*
+![Roadmap](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/main/assets/ml_str.jpg)
 
-*Describe how you trained your model, what data you used, and what parameters your model uses to make decisions.*
-
-**Links to the initial model artifacts**: *links*
+* Vaccancy-Skill mapping (see [here](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/feature-job_skill_mapping/ml/jv_mapping.ipynb))
+* Skill Gap Analyzer prototype (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/45))
 
 ## Internal demo
 
-*Notes from internal demo*
+* Needed to **add**
+  * **Dark theme**, so our eyes wont hurt
+  * **More Skills on Onboarding**, so we get more info about user
 
-# Weekly commitments
+# 📝 **Weekly commitments**
 
-## Individual contribution of each participant
+## 📊 **Individual contribution of each participant**
 
-*...*
+* **Marsel Berheev:** m.berheev@innopolis.university
+  * Weekly report
 
-## Plan for Next Week
+* **Maksim Malov:** m.malov@innopolis.university
+  * Added logger to backend (see [pull request](https://github.com/IU-Capstone-Project-2025/KIZAK/pull/39))
+  * API debug
 
-*...*
+* **Makar Egorov:** m.egorov@innopolis.university
+  * Updated API docs (see [pull request](https://github.com/IU-Capstone-Project-2025/KIZAK/pull/46))
+
+* **Timur Farizunov:** t.farizunov@innopolis.university
+  * Frontend refinement (see [fixes](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/f48a2f802f8a18f1b504e9f3364940e41e844125))
+
+* **Sarmat Lutfullin:** s.lutfullin@innopolis.university
+  * API integration
+ 
+* **Ulyana Chaikovskaya:** u.chaikouskaya@innopolis.university
+  * Skill Gap Analyzer (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/45))
+
+* **Kseniia Khudiakova:** k.khudiakova@innopolis.university
+  * Skill-Vacancy mapping (see [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/dff3487d339a6efb10a4f94b9d1d611a1e014c1e))
+
+## 🎯 **Plan for Next Week**
+
+* Polish frontend part
+* Add vector database
+* Adjust API for ML needs
 
 ## Confirmation of the code's operability
 
