@@ -10,24 +10,25 @@ title: "Week #3"
 * User onboarding (see [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/5eb94228db926daf3178c15691ddb0fe10375b19))
 * Fisrt iteration of roadmap (see [design](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/26) and [commit](https://github.com/IU-Capstone-Project-2025/KIZAK/commit/323020397d71bb41a700c78b674c956299e793fe))
 
-## Demonstration of the working MVP
+## 📽️ **Demonstration of the working MVP**
 
 *Screenshots/GIFs/PDF presentation/Videos demonstrating the working MVP*
 
-## ML
+## 🤖 **ML**
 
-Structure of roadmap creation:
+We completed the structure of the automated roadmap generation.
 
 ![Roadmap](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/main/assets/ml_str.jpg)
 
 * Vaccancy-Skill mapping (see [here](https://github.com/IU-Capstone-Project-2025/KIZAK/blob/feature-job_skill_mapping/ml/jv_mapping.ipynb))
 * Skill Gap Analyzer prototype (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/45))
 
-## Internal demo
+## ✏️ **Internal demo**
 
 * Needed to **add**
   * **Dark theme**, so our eyes wont hurt
   * **More Skills on Onboarding**, so we get more info about user
+  * Add **new authentication** methods
 
 # 📝 **Weekly commitments**
 
@@ -35,6 +36,7 @@ Structure of roadmap creation:
 
 * **Marsel Berheev:** m.berheev@innopolis.university
   * Weekly report
+  * Database update (see [issue](https://github.com/IU-Capstone-Project-2025/KIZAK/issues/40))
 
 * **Maksim Malov:** m.malov@innopolis.university
   * Added logger to backend (see [pull request](https://github.com/IU-Capstone-Project-2025/KIZAK/pull/39))
